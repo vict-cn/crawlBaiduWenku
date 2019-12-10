@@ -1,0 +1,5 @@
+requests==2.21.0
+reportlab==3.5.32
+Pillow==5.4.1
+selenium==2.4.0
+baidu-aip==2.2.18.0
