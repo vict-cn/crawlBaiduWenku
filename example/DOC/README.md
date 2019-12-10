@@ -19,6 +19,6 @@
 ### 描述
 
  1. 若是doc文件为纯文本，则可以使用[crawlBaiduWenku.py](https://github.com/vict-cn/crawlBaiduWenku/blob/master/crawlBaiduWenku.py)或者[parse_to_doc.py](https://github.com/vict-cn/crawlBaiduWenku/blob/master/parse_to_doc.py)获得doc文件。
- 2. 若是doc有图片，可以尝试使用[parse_to_pic](https://github.com/vict-cn/crawlBaiduWenku/blob/master/parse_to_pic.py).py。
+ 2. 若是doc有图片，可以尝试使用[parse_to_pic.py](https://github.com/vict-cn/crawlBaiduWenku/blob/master/parse_to_pic.py).py。
  3. 若是上述两者无效，可以选择使用[Screenshot_to_pdf.py](https://github.com/vict-cn/crawlBaiduWenku/blob/master/Screenshot_to_pdf.py)文件
 
