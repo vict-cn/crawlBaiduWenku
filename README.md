@@ -74,7 +74,7 @@
 6. [pic_to_xls.py](https://github.com/vict-cn/crawlBaiduWenku/blob/master/pic_to_xls.py)
 > - 把文件夹的表格转化为xls文件。
 
-7. [get_pic.py](https://github.com/vict-cn/crawlBaiduWenku/blob/master/get_pic.py)
+7. [parse_to_pic.py](https://github.com/vict-cn/crawlBaiduWenku/blob/master/parse_to_pic.py)
 >- 获得每个网页的图片(有的文档可能解析不出来)。
 
 ***
