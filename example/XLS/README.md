@@ -4,7 +4,7 @@
 > 会生成一个文件夹，里面含有所有xls文件的图片
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191210151034157.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTU3ODYwMA==,size_16,color_FFFFFF,t_70)
 ### 运行[pic_to_xls.py](https://github.com/vict-cn/crawlBaiduWenku/blob/master/pic_to_xls.py)来转化pic为xls
-> 需要输入文件夹名称(上面可以得到)与APP_ID、API_KEY、SECRET_KEY（可以点击这个看怎么获得）
+> 需要输入文件夹名称(上面可以得到)与APP_ID、API_KEY、SECRET_KEY（新手[点击](https://github.com/vict-cn/crawlBaiduWenku/tree/master/example/baidu-aip)）
 > 会在同目录生成xls文件。
 > ![在这里插入图片描述](https://img-blog.csdnimg.cn/20191210151836830.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTU3ODYwMA==,size_16,color_FFFFFF,t_70)
 
