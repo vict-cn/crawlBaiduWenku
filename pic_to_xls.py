@@ -23,9 +23,9 @@ def parse_table(filename):
             
 if __name__=='__main__':
     filename=input('请输入文件夹名称：')
-    APP_ID = '17956307'
-    API_KEY = 'SfXrfdIysZE6HUPm5p8eYQ3P'
-    SECRET_KEY = 'O1TaCxmQ9EbMHDOQsp740cM6DxHVgLiK'
+    APP_ID = ''
+    API_KEY = ''
+    SECRET_KEY = ''
     client = AipOcr(APP_ID, API_KEY, SECRET_KEY)
     parse_table(filename)
     
