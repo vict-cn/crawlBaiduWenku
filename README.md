@@ -22,7 +22,7 @@
 
  **3. 下载PhantomJS(本文档自带)**
 
-> - 然后将其添加到环境变量，若是不知道怎么做的，可以看我的一篇博客，或者搜索 PhantomJS配置即可
+> - 然后将其添加到环境变量，若是不知道怎么做的，[请点击](https://github.com/vict-cn/crawlBaiduWenku/tree/master/example/PhantomJs)
 >
 > - 因为selenium高版本不支持PhantomJS了，所以我们这里选择安装低版本的selenium
 
@@ -32,7 +32,7 @@
 > 此时你就会得到你想要的(大概率是可行的)，要是爬取的不太理想，请继续阅读
 
 ***
-## 使用说明(若是不想看文字，可以直接看example文件夹内的实例，或者直接各文件的作用)
+## 使用说明(若是不想看文字，可以直接看example文件夹内的实例，或者直接看各文件的作用)
 
 >  - 爬**TXT**文件，爬取效果最好，可以选择可以使用**prase_to_txt.py**文件或者**parse_to_doc.py**文件，有时候后者比前者的效果要好，会生成一个**txt/doc**文件。[查看TXT实例](https://github.com/vict-cn/crawlBaiduWenku/tree/master/example/TXT)
 
