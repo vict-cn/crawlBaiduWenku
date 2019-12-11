@@ -22,3 +22,8 @@ def pic_to_pdf(filename):
             except:
                 pass
     c.save()
+    print('文件保存为{}.pdf'.format(filename))
+    
+if __name__=='__main__':
+    filename=''
+    pic_to_pdf(filename)
