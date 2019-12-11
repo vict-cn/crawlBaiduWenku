@@ -1,5 +1,6 @@
 
 
+
 # 爬取百度文库
 
 ## 需求是发明之母
@@ -82,6 +83,11 @@
 8. [pic_to_txt.py](https://github.com/vict-cn/crawlBaiduWenku/blob/master/pic_to_txt.py)
 >- 把图片中的文字转化到txt中(含位置)，需要[baidu-aip](https://github.com/vict-cn/crawlBaiduWenku/tree/master/example/baidu-aip)
 
+9. [pic_to_ppt.py](https://github.com/vict-cn/crawlBaiduWenku/blob/master/pic_to_ppt.py)
+
+> - 生成ppt文件，包含文件夹内的所有图片(默认为一个图片覆盖一个幻灯片)
+
+ 
 ***
 ## 声明
 **除非选择下载文件，否则很难得到与原来一模一样的文件，而爬取方法没有定式，比如爬TXT并非一定要用parse_to_txt.py，还有大把方法可以使用。
