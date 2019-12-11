@@ -42,6 +42,8 @@ def write_to_file(ls,filename,font_size):
                     flags=True
             except:
                 pass
+    print('文件保存在{}.txt中'.format(filename))
+            
             
 if __name__=='__main__':
     filename=''
