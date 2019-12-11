@@ -80,7 +80,7 @@
 >- 获得每个页面的所有图片(有的文档可能解析不出来)。
 >
 8. [pic_to_txt.py](https://github.com/vict-cn/crawlBaiduWenku/blob/master/pic_to_txt.py)
-> 把图片中的文字转化到txt中(含位置)，需要[baidu-aip](https://github.com/vict-cn/crawlBaiduWenku/tree/master/example/baidu-aip)
+>- 把图片中的文字转化到txt中(含位置)，需要[baidu-aip](https://github.com/vict-cn/crawlBaiduWenku/tree/master/example/baidu-aip)
 
 ***
 ## 声明
