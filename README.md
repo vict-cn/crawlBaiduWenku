@@ -23,7 +23,7 @@
 
  **3. 下载PhantomJS(本文档自带)**
 
-> - 然后将其添加到环境变量，若是不知道怎么做的，[请点击](https://github.com/vict-cn/crawlBaiduWenku/tree/master/example/PhantomJs)
+> - 然后将其添加到环境变量，新手[请点击](https://github.com/vict-cn/crawlBaiduWenku/tree/master/example/PhantomJs)
 >
 > - 因为selenium高版本不支持PhantomJS了，所以我们这里选择安装低版本的selenium
 
