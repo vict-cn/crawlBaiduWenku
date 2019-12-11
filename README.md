@@ -1,5 +1,6 @@
 
-# 爬取BaiduWenku
+
+# 爬取百度文库
 
 ## 需求是发明之母
 **想下载文件又不想花钱和积分**
@@ -72,10 +73,14 @@
 > - 把文件夹内的图片转化为pdf文件。
 
 6. [pic_to_xls.py](https://github.com/vict-cn/crawlBaiduWenku/blob/master/pic_to_xls.py)
-> - 把文件夹内的表格转化为xls文件。
+> - 把文件夹内的表格转化为xls文件。需要[baidu-aip](https://github.com/vict-cn/crawlBaiduWenku/tree/master/example/baidu-aip)
 
 7. [parse_to_pic.py](https://github.com/vict-cn/crawlBaiduWenku/blob/master/parse_to_pic.py)
+
 >- 获得每个页面的所有图片(有的文档可能解析不出来)。
+>
+8. [pic_to_txt.py](https://github.com/vict-cn/crawlBaiduWenku/blob/master/pic_to_txt.py)
+> 把图片中的文字转化到txt中(含位置)，需要[baidu-aip](https://github.com/vict-cn/crawlBaiduWenku/tree/master/example/baidu-aip)
 
 ***
 ## 声明
