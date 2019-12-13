@@ -32,7 +32,7 @@ def pic_to_ppt(filename):  #前提是图片文件名全为数字，否则还需�
     print('生成的文件在 {} 文件夹下的 {}.ppt 中'.format(filename,filename))
 
 if __name__=='__main__':
-    filename='德邦物流公司PPT'
+    filename=''   #填文件夹名称即可
     pic_to_ppt(filename)
     
     
