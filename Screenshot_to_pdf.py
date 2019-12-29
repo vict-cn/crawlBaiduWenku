@@ -76,7 +76,7 @@ def screenshot(browser,wenku_title):
         for i in range(1,page_count+1):
             pic_crop(i,picture,browser,wenku_title)
     else:
-        for i in range(2,page_count,3):
+        for i in range(2,page_count,3):  #有时候需要换成for i in range(2,page_count+1,3)形式。
             y_loc=browser.find_element_by_id('pageNo-{}'.format(str(i)))
             js="window.scrollTo(0,{})".format(str(y_loc.location['y']))
             browser.execute_script(js) 
